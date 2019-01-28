@@ -1,10 +1,10 @@
 {
     "recipe": {
-        "title": "Bubur-ayam",
-        "slug": "resep-ayam-bakar",
+        "title": "Pancake Jepang",
+        "slug": "pancake-jepang",
         "cover_url": "",
         "rating": 4.5,
-        "video_url": "https://img-9gag-fun.9cache.com/photo/a4Q1ZQp_460svvp9.webm",
+        "video_url": "https://github.com/RioRizkyRainey/yummy_dummy/blob/master/videos/roti-john.mp4?raw=true",
         "is_halal": true,
         "is_vegetarian": false,
         "is_diet": true,
@@ -14,6 +14,26 @@
         "serving_min": 2,
         "serving_max": 4,
         "release_date": 1548215224,
+        "time_to_eats": [
+            {
+                "name": "Makan Pagi",
+                "slug": "makan-pagi"
+            },
+            {
+                "name": "Makan Pagi",
+                "slug": "makan-pagi"
+            },
+            {
+                "name": "Makan Pagi",
+                "slug": "makan-pagi"
+            }
+        ],
+        "tags":[
+            {
+                "name": "Roti",
+                "slug": "roti"
+            }
+        ],
         "ingredients": [
             {
                 "description": "Masukkan sebatang sosis",
@@ -47,7 +67,7 @@
     },
     "comment": [
         {
-            "parent_random_key": null, // nullable. if null, this object = parent comment
+            "parent_random_key": null, 
             "random_key": "",
             "comment": "Kalau cara merebus sosis gimana?",
             "created_at": 1548215224,

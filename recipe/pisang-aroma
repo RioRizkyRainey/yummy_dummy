@@ -1,0 +1,86 @@
+{
+    "recipe": {
+        "title": "Pisang Aroma",
+        "slug": "pisang-aroma",
+        "cover_url": "",
+        "rating": 4.5,
+        "video_url": "https://github.com/RioRizkyRainey/yummy_dummy/blob/master/videos/pisang-aroma.mp4?raw=true",
+        "is_halal": true,
+        "is_vegetarian": false,
+        "is_diet": true,
+        "calories": 3000,
+        "is_csc": true,
+        "cooking_time": 360,
+        "serving_min": 2,
+        "serving_max": 4,
+        "release_date": 1548215224,
+        "time_to_eats": [
+            {
+                "name": "Makan Pagi",
+                "slug": "makan-pagi"
+            },
+            {
+                "name": "Makan Pagi",
+                "slug": "makan-pagi"
+            },
+            {
+                "name": "Makan Pagi",
+                "slug": "makan-pagi"
+            }
+        ],
+        "tags":[
+            {
+                "name": "Roti",
+                "slug": "roti"
+            }
+        ],
+        "ingredients": [
+            {
+                "description": "Masukkan sebatang sosis",
+                "recomendation": "Bisa diganti dengan telur"
+            }
+        ],
+        "cooking_step": [
+            {
+                "title": "Campur sosis dengan saus",
+                "text": "Campur sosis kedalam saus",
+                "image_url": "https://www.popbela.com/assets/img/global/logo.png",
+                "order": 0
+            }
+        ],
+        "recomendation": [
+            {
+                "title": "Resep Ayam Bakar",
+                "slug": "resep-ayam-bakar",
+                "cover_url": "https://www.popbela.com/assets/img/global/logo.png",
+                "rating": 4.5,
+                "cooking_time": 360
+            },
+            {
+                "title": "Resep Ayam Bakar",
+                "slug": "resep-ayam-bakar",
+                "cover_url": "https://www.popbela.com/assets/img/global/logo.png",
+                "rating": 4.5,
+                "cooking_time": 360
+            }
+        ]
+    },
+    "comment": [
+        {
+            "parent_random_key": null, // nullable. if null, this object = parent comment
+            "random_key": "",
+            "comment": "Kalau cara merebus sosis gimana?",
+            "created_at": 1548215224,
+            "image_url": "https://www.popbela.com/assets/img/global/logo.png",
+            "reply": [
+                {
+                    "parent_random_key": "klo3ma0xz", // nullable. if null, this object = parent comment
+                    "random_key": "im9ska0w",
+                    "comment": "Dicelup ke air",
+                    "created_at": 1548215224,
+                    "image_url": "https://www.popbela.com/assets/img/global/logo.png",
+                }
+            ]
+        }
+    ]
+}
